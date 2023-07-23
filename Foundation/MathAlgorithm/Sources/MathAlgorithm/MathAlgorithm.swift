@@ -28,7 +28,7 @@ public struct MathAlgorithm: IMathAlgorithm {
 
     public func checkkkk() {
         // Reference internal symbols by uncommenting this
-//        HeavyAlgorithm().mergeSort(arr: [1, 2, 3])
-//        HeavyAlgorithm().quickSort(arr: [1, 2, 3])
+        HeavyAlgorithm().mergeSort(arr: [1, 2, 3])
+        HeavyAlgorithm().quickSort(arr: [1, 2, 3])
     }
 }

@@ -15,9 +15,6 @@ class ViewController: UIViewController {
         let algo = MathAlgorithm()
         let a = algo.customAdd(4, n2: 5)
 
-        // Reference internal symbols by uncommenting this
-//        algo.checkkkk()
-
         print(a)
     }
 
